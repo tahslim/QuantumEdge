@@ -27,7 +27,7 @@
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourname/QuantumEdge
+git clone https://github.com/tahslim/QuantumEdge
 cd QuantumEdge
 ./setup_arm.sh          # Installs ONNX Runtime for Arm64 + dependencies
 python3 demo.py --mode camera      # or --mode sensor
